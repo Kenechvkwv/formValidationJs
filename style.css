@@ -46,9 +46,9 @@ button:hover {
 #errorname,
 #errorpassword {
   display: none;
-  background-color: rgba(223, 7, 7, 0.528);
+  /* background-color: rgba(223, 7, 7, 0.528);
   border-radius: 20px;
-  padding: 10px;
+  padding: 10px; */
   font-weight: bold;
   color: red;
 }
